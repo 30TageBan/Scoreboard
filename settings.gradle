@@ -1,0 +1,4 @@
+rootProject.name = 'Scoreboard'
+include 'NMS1.15'
+include 'NMS1.8'
+

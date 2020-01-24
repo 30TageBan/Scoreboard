@@ -1,0 +1,4 @@
+name: Scoreboard
+main: de.tageban.scoreboard.ScoreboardPlugin
+version: 1.0-SNAPSHOT
+author: 30TageBan
